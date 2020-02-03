@@ -13,4 +13,4 @@ This repository contains R code for the analysis in [citation]
 **Conclusions:** 
 >
 # Correspondence
-Please contact Arin Madenci (arin_madenci@g.harvard.edu) if you have questions/comments or discover an error.
+Please contact Arin Madenci (arin_madenci at g.harvard.edu) if you have questions/comments or discover an error.
